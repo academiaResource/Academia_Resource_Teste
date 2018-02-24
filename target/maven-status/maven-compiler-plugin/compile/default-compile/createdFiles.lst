@@ -1,0 +1,11 @@
+br/com/academia/bean/Exercicio.class
+br/com/academia/bo/TreinoBO.class
+br/com/academia/bo/EnderecoBO.class
+br/com/academia/jpa/entity/Treino.class
+br/com/academia/interfaces/InterfaceMetodos.class
+br/com/academia/jpa/entity/Endereco.class
+br/com/academia/jpa/entity/Aluno.class
+br/com/academia/teste/Teste.class
+br/com/academia/bo/AlunoBO.class
+br/com/resource/exception/Excecao.class
+br/com/academia/enums/TipoENUM.class
